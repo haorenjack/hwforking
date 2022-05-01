@@ -10,4 +10,4 @@ diamonds%>%
   filter(price > 7000 & price < 10000)%>%
   arrange(desc(carat))%>%
   slice(1:20)
-#hao ren use 2 account to finish this assignment
+#hao ren use 2 accounts to finish this assignment
